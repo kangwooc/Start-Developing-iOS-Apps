@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		490BC06F249B337A00904CCA /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490BC06E249B337A00904CCA /* Meal.swift */; };
+		490BC071249B3A9500904CCA /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490BC070249B3A9500904CCA /* MealTableViewCell.swift */; };
 		49DFCE88249B0B1F00696931 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DFCE87249B0B1F00696931 /* AppDelegate.swift */; };
 		49DFCE8A249B0B1F00696931 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DFCE89249B0B1F00696931 /* SceneDelegate.swift */; };
 		49DFCE8C249B0B1F00696931 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DFCE8B249B0B1F00696931 /* ViewController.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		490BC06E249B337A00904CCA /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		490BC070249B3A9500904CCA /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		49DFCE84249B0B1F00696931 /* create_ios_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = create_ios_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49DFCE87249B0B1F00696931 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49DFCE89249B0B1F00696931 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				49DFCE95249B0B2100696931 /* Info.plist */,
 				49DFCEA9249B1E3E00696931 /* RatingControl.swift */,
 				490BC06E249B337A00904CCA /* Meal.swift */,
+				490BC070249B3A9500904CCA /* MealTableViewCell.swift */,
 			);
 			path = create_ios_app;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 			files = (
 				490BC06F249B337A00904CCA /* Meal.swift in Sources */,
 				49DFCEAA249B1E3E00696931 /* RatingControl.swift in Sources */,
+				490BC071249B3A9500904CCA /* MealTableViewCell.swift in Sources */,
 				49DFCE8C249B0B1F00696931 /* ViewController.swift in Sources */,
 				49DFCE88249B0B1F00696931 /* AppDelegate.swift in Sources */,
 				49DFCE8A249B0B1F00696931 /* SceneDelegate.swift in Sources */,
